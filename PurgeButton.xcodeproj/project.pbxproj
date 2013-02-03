@@ -17,6 +17,8 @@
 		E324079116BE8D0F00BCC040 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E324077116BE8D0E00BCC040 /* Cocoa.framework */; };
 		E324079916BE8D0F00BCC040 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E324079716BE8D0F00BCC040 /* InfoPlist.strings */; };
 		E324079C16BE8D0F00BCC040 /* PurgeButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E324079B16BE8D0F00BCC040 /* PurgeButtonTests.m */; };
+		E32407A816BEA38E00BCC040 /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = E32407A716BEA38E00BCC040 /* icon1.png */; };
+		E32407AC16BEA61800BCC040 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = E32407AB16BEA61800BCC040 /* icon.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		E324079816BE8D0F00BCC040 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E324079A16BE8D0F00BCC040 /* PurgeButtonTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PurgeButtonTests.h; sourceTree = "<group>"; };
 		E324079B16BE8D0F00BCC040 /* PurgeButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PurgeButtonTests.m; sourceTree = "<group>"; };
+		E32407A716BEA38E00BCC040 /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1.png; sourceTree = "<group>"; };
+		E32407AB16BEA61800BCC040 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +79,7 @@
 		E324076516BE8D0E00BCC040 = {
 			isa = PBXGroup;
 			children = (
+				E32407AB16BEA61800BCC040 /* icon.icns */,
 				E324077716BE8D0E00BCC040 /* PurgeButton */,
 				E324079416BE8D0F00BCC040 /* PurgeButtonTests */,
 				E324077016BE8D0E00BCC040 /* Frameworks */,
@@ -117,6 +122,7 @@
 				E324078316BE8D0E00BCC040 /* AppDelegate.h */,
 				E324078416BE8D0E00BCC040 /* AppDelegate.m */,
 				E324078616BE8D0E00BCC040 /* MainMenu.xib */,
+				E32407A716BEA38E00BCC040 /* icon1.png */,
 				E324077816BE8D0E00BCC040 /* Supporting Files */,
 			);
 			path = PurgeButton;
@@ -227,6 +233,8 @@
 				E324077C16BE8D0E00BCC040 /* InfoPlist.strings in Resources */,
 				E324078216BE8D0E00BCC040 /* Credits.rtf in Resources */,
 				E324078816BE8D0E00BCC040 /* MainMenu.xib in Resources */,
+				E32407A816BEA38E00BCC040 /* icon1.png in Resources */,
+				E32407AC16BEA61800BCC040 /* icon.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

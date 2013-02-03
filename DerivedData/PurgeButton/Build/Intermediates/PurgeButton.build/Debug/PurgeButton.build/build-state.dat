@@ -1,0 +1,258 @@
+TPurgeButton
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Info.plist" PurgeButton/PurgeButton-Info.plist
+cProcessPCH "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.pth" PurgeButton/PurgeButton-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton" normal x86_64
+cCpResource PurgeButton/en.lproj/Credits.rtf DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf
+cCopyStringsFile "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/InfoPlist.strings" PurgeButton/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib"
+cCpResource PurgeButton/icon1.png DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png
+cCpResource icon.icns DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icns
+cTouch "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005109354D00000000000000AA
+t1359557965
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000506F1E4700000000000025C8
+t1349459527
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506F1E4700000000000001E5
+t1349459527
+s485
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.pth
+t1359896984
+s12887664
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.o
+t1359899764
+s34076
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/PurgeButton.LinkFileList
+c00000000510E61910000000000000189
+t1359896977
+s393
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.o
+t1359896985
+s2952
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app
+t1359899764
+s102
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Info.plist
+t1359897840
+s1521
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton
+t1359899764
+s15792
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/PkgInfo
+t1359897840
+s8
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf
+t1359897383
+s436
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1359897383
+s92
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/MainMenu.nib
+t1359898361
+s26365
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icns
+t2
+s0
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png
+t1359899683
+s7991
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.h
+c00000000510E6C5A000000000000019A
+t1359899738
+s410
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m
+c00000000510E6C550000000000000290
+t1359899733
+s656
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/PurgeButton-Prefix.pch
+c00000000510E558E0000000000000099
+t1359893902
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/Credits.rtf
+c00000000510E558E00000000000001B4
+t1359893902
+s436
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/InfoPlist.strings
+c00000000510E558E000000000000002D
+t1359893902
+s45
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib
+c00000000510E66F30000000000022EE7
+t1359898355
+s143079
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/icon1.png
+c00000000510E6C050000000000001F37
+t1359899653
+s7991
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m
+c00000000510E558E000000000000011D
+t1359893902
+s285
+
+N/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/icon.icns
+c00000000510E6E77000000000000682F
+t1359900279
+s26671
+
+NPurgeButton/PurgeButton-Info.plist
+c00000000510E6E9800000000000004D4
+t1359900312
+s1236
+
+CBuild AST from "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies94323dafa6beb641^fc5158afa6beb641^---0#1#0#--18"Check dependencies36"76FD299B-779D-454F-88E0-4FD3D4B39432-
+
+CCompileC DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381592564.203004
+e381592564.299666
+r1
+xCompileC
+xDerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.mb91734f4a3beb641^6fb74cf4a3beb641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m0000000000000000^4117"CompileC DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.o PurgeButton/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-generated-files.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-own-target-headers.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-all-target-headers.hmap" -iquote "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-project-headers.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/DerivedSources/x86_64" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/DerivedSources" "-F/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug" -include "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch" -MMD -MT dependencies -MF "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.d" --serialize-diagnostics "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.dia" -c "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/AppDelegate.m" -o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/AppDelegate.o"36"73EF6E2D-2777-4E71-AEBE-9CAA02638D23-
+
+CCompileC DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381589785.312420
+e381589785.897074
+r1
+xCompileC
+xDerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.o
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m7922501999beb641^d7a6e51999beb641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/PurgeButton/main.m0000000000000000^4075"CompileC DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.o PurgeButton/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-generated-files.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-own-target-headers.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-all-target-headers.hmap" -iquote "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-project-headers.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/DerivedSources/x86_64" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/DerivedSources" "-F/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug" -include "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch" -MMD -MT dependencies -MF "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.dia" -c "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/main.m" -o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/main.o"36"B4016FFE-7B9F-4D45-9BD0-6171C1CAC019-
+
+CCompileXIB "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib"
+s381591157.837323
+e381591161.140567
+r1
+xCompileXIB
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compiling /Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib7979d6759ebeb641^a22933799ebeb641^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib0000000000000000^761"CompileXIB PurgeButton/en.lproj/MainMenu.xib    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"1C3EF95D-E2C8-45C5-8BFD-DF24E6A9F3B8-
+
+CCopyStringsFile "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/InfoPlist.strings" PurgeButton/en.lproj/InfoPlist.strings
+s381590182.909833
+e381590183.121068
+r1
+xCopyStringsFile
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/InfoPlist.strings
+xPurgeButton/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy PurgeButton/en.lproj/InfoPlist.strings4d4df6a69abeb641^57041fa79abeb641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/PurgeButton/en.lproj/InfoPlist.strings0000000000000000^550"CopyStringsFile DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/InfoPlist.strings PurgeButton/en.lproj/InfoPlist.strings    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj" -- PurgeButton/en.lproj/InfoPlist.strings36"3386150A-21B8-4D15-80F5-BFCE5D74E59B-
+
+CCpResource PurgeButton/en.lproj/Credits.rtf DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf
+s381590182.909825
+e381590183.120907
+r1
+xCpResource
+xPurgeButton/en.lproj/Credits.rtf
+xDerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf2b4df6a69abeb641^7bf41ea79abeb641^---0#0#0#-19%DVTDocumentLocation2@224"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^626"CpResource PurgeButton/en.lproj/Credits.rtf DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/en.lproj/Credits.rtf" "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/en.lproj"36"D746B748-BA18-44AC-A607-C0B651A8B2B4-
+
+CCpResource PurgeButton/icon1.png DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png
+s381592483.267186
+e381592483.269541
+r1
+xCpResource
+xPurgeButton/icon1.png
+xDerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png1b8144a3a3beb641^c50045a3a3beb641^---0#0#0#-19%DVTDocumentLocation2@213"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png0000000000000000^584"CpResource PurgeButton/icon1.png DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon1.png    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/icon1.png" "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources"36"67498FB0-9167-4EE5-96CF-FA7AEFE27F1E-
+
+CCpResource icon.icns DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icns
+s381593263.408215
+e381593263.410394
+r1
+xCpResource
+xicon.icns
+xDerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icnsde8e68afa6beb641^520f69afa6beb641^---0#0#0#-19%DVTDocumentLocation2@213"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icns000000000080d041^560"CpResource icon.icns DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources/icon.icns    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/icon.icns" "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Resources"36"E7555993-3B0E-4564-8BFF-3B40D92F95F1-
+
+CLd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton" normal x86_64
+s381592564.306239
+e381592564.368239
+r1
+xLd
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Link /Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton1c7b4ef4a3beb641^28465ef4a3beb641^---0#0#0#--1174"Ld DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton normal x86_64    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug" "-F/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug" -filelist "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/Objects-normal/x86_64/PurgeButton.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/MacOS/PurgeButton"36"A9B7654A-509E-4078-ADE5-90680FA9734D-
+
+CProcessInfoPlistFile "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Info.plist" PurgeButton/PurgeButton-Info.plist
+s381593263.349008
+e381593263.376504
+r1
+xProcessInfoPlistFile
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Info.plist
+xPurgeButton/PurgeButton-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process PurgeButton/PurgeButton-Info.plist6b6659afa6beb641^97e464afa6beb641^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/PurgeButton/PurgeButton-Info.plist0000000000000000^660"ProcessInfoPlistFile DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Info.plist PurgeButton/PurgeButton-Info.plist    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    builtin-infoPlistUtility PurgeButton/PurgeButton-Info.plist -genpkginfo "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app/Contents/Info.plist"36"8357CC7C-3CA6-40D3-A632-B33DBF10D470-
+
+CProcessPCH "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.pth" PurgeButton/PurgeButton-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381589777.669359
+e381589785.305246
+r1
+xProcessPCH
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.pth
+xPurgeButton/PurgeButton-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile PurgeButton/PurgeButton-Prefix.pch15c9ab1199beb641^bc244e1999beb641^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/igorsavelev/Documents/Programming/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20C++/Xcode/PurgeButton/PurgeButton/PurgeButton-Prefix.pch0000000000000000^3981"ProcessPCH DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.pth PurgeButton/PurgeButton-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-generated-files.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-own-target-headers.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-all-target-headers.hmap" -iquote "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/PurgeButton-project-headers.hmap" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/DerivedSources/x86_64" "-I/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PurgeButton.build/Debug/PurgeButton.build/DerivedSources" "-F/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug" --serialize-diagnostics "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.dia" -c "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/PurgeButton/PurgeButton-Prefix.pch" -o "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Intermediates/PrecompiledHeaders/PurgeButton-Prefix-abyglmcwjtqgfhhkksyxqqxjozxm/PurgeButton-Prefix.pch.d"36"E4605B8D-F1BA-464F-BCC1-B04C74DB34E1-
+
+CProcessPCH "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Index/PrecompiledHeaders/PurgeButton-Prefix-euehvykkrtdbtqgadubsjudjnhqt_ast/PurgeButton-Prefix.pch.pth" PurgeButton/PurgeButton-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app"
+s381593263.418439
+e381593263.463758
+r1
+xTouch
+x/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Touch /Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app172e6bafa6beb641^73b876afa6beb641^---0#0#0#--317"Touch DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app    cd "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton"    /usr/bin/touch -c "/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton/DerivedData/PurgeButton/Build/Products/Debug/PurgeButton.app"36"675BF4E7-A107-4E6E-B976-7F96ABAAF328-
+

@@ -10,9 +10,24 @@
 
 @implementation AppDelegate
 
-- (void)applicationDidFinishLaunching:(NSNotification *)aNotification
+@synthesize window;
+
+- (void)awakeFromNib
 {
-    // Insert code here to initialize your application
+    PurgeCommand = [[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength];
+    
+    [PurgeCommand setTitle: @"P"];
+    [PurgeCommand setMenu: PurgeButton];
+    [PurgeCommand setHighlightMode:YES];
+}
+
+- (IBAction)Purge:(id)sender
+{
+    NSTask *task;
+    task = [[NSTask alloc] init];
+    [task setLaunchPath: @"/usr/bin/purge"];
+    
+    [task launch];
 }
 
 @end

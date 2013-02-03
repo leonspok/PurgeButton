@@ -9,6 +9,12 @@
 #import <Cocoa/Cocoa.h>
 
 @interface AppDelegate : NSObject <NSApplicationDelegate>
+{
+    IBOutlet NSMenu *PurgeButton;
+    NSStatusItem *PurgeCommand;
+}
+
+- (IBAction)Purge:(id)sender;
 
 @property (assign) IBOutlet NSWindow *window;
 
