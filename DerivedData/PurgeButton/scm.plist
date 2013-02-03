@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array>
+		<string>/Users/igorsavelev/Documents/Programming/Проекты C++/Xcode/PurgeButton</string>
+	</array>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2013-02-03T12:18:26Z</date>
+	<key>MissingFilePaths</key>
+	<array/>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>
