@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PurgeButton' target in the 'PurgeButton' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
